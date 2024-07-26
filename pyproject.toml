@@ -1,0 +1,7 @@
+[project]
+name = "converter"
+version = "1.0.0"
+requires-python = ">=3.12.2"
+dependencies = [
+    "pillow",
+]
